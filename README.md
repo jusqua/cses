@@ -2,7 +2,7 @@
 
 ## Introductory Problems
 
-- [Weird Algorithm](./introductory-problems/weird-algorithms.cpp)
+- [Weird Algorithm](./introductory-problems/weird-algorithm.cpp)
 - [Missing Number](./introductory-problems/missing-number.cpp)
 - [Repetitions](./introductory-problems/repetitions.cpp)
 - [Increasing Array](./introductory-problems/increasing-array.cpp)
