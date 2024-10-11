@@ -8,3 +8,4 @@
 - [Increasing Array](./introductory-problems/increasing-array.cpp)
 - [Permutations](./introductory-problems/permutations.cpp)
 - [Number Spiral](./introductory-problems/number-spiral.cpp)
+- [Two Knights](./introductory-problems/two-knights.cpp)
