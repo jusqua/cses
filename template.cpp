@@ -1,5 +1,6 @@
 #pragma GCC optimize("O3")
 #include <bits/stdc++.h>
+#define debug(var) (std::cout << #var << " = " << var << endl)
 using namespace std;
 
 int main(void) {
