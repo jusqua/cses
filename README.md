@@ -13,3 +13,4 @@
 - [Bit Strings](./introductory-problems/bit-strings.cpp)
 - [Trailing Zeros](./introductory-problems/trailing-zeros.cpp)
 - [Coin Piles](./introductory-problems/coin-piles.cpp)
+- [Palindrome Reorder](./introductory-problems/palindrome-reorder.cpp)
