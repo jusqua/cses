@@ -14,3 +14,4 @@
 - [Trailing Zeros](./introductory-problems/trailing-zeros.cpp)
 - [Coin Piles](./introductory-problems/coin-piles.cpp)
 - [Palindrome Reorder](./introductory-problems/palindrome-reorder.cpp)
+- [Gray Code](./introductory-problems/gray-code.cpp)
