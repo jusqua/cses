@@ -11,3 +11,4 @@
 - [Two Knights](./introductory-problems/two-knights.cpp)
 - [Two Sets](./introductory-problems/two-sets.cpp)
 - [Bit Strings](./introductory-problems/bit-strings.cpp)
+- [Trailing Zeros](./introductory-problems/trailing-zeros.cpp)
