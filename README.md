@@ -12,3 +12,4 @@
 - [Two Sets](./introductory-problems/two-sets.cpp)
 - [Bit Strings](./introductory-problems/bit-strings.cpp)
 - [Trailing Zeros](./introductory-problems/trailing-zeros.cpp)
+- [Coin Piles](./introductory-problems/coin-piles.cpp)
