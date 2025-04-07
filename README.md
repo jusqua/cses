@@ -16,3 +16,4 @@
 - [Palindrome Reorder](./introductory-problems/palindrome-reorder.cpp)
 - [Gray Code](./introductory-problems/gray-code.cpp)
 - [Tower of Hanoi](./introductory-problems/tower-of-hanoi.cpp)
+- [Creating Strings](./introductory-problems/creating-strings.cpp)
