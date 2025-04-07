@@ -15,3 +15,4 @@
 - [Coin Piles](./introductory-problems/coin-piles.cpp)
 - [Palindrome Reorder](./introductory-problems/palindrome-reorder.cpp)
 - [Gray Code](./introductory-problems/gray-code.cpp)
+- [Tower of Hanoi](./introductory-problems/tower-of-hanoi.cpp)
