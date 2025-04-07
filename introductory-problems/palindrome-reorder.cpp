@@ -1,14 +1,11 @@
+#include <array>
 #include <cstdint>
-#pragma GCC optimize("O3")
-#include <bits/stdc++.h>
-#define debug(var) (std::cout << #var << " = " << var << endl)
+#include <iostream>
+#include <string>
+
 using namespace std;
 
 int main(void) {
-    std::ios_base::sync_with_stdio(false);
-    std::cin.tie(NULL);
-    std::cout.tie(NULL);
-
     constexpr int LETTERS = 26;
 
     array<uint64_t, LETTERS> letters;
