@@ -20,3 +20,4 @@
 - [Apple Division](./introductory-problems/apple-division.cpp)
 - [Chessboard and Queens](./introductory-problems/chessboard-and-queens.cpp)
 - [Digit Queries](./introductory-problems/digit-queries.cpp)
+- [Grid Paths](./introductory-problems/grid-paths.cpp)
