@@ -1,6 +1,17 @@
 # CSES Problem Set
 
+> [!IMPORTANT]
+> These files serve to give you a sense of how to do, iff, you feel lost in solving the problem.
+>
+> **Don't copy and paste any of these files, try to solve any problems by yourself.**
+
+<details>
+
+<summary>
+
 ## Introductory Problems
+
+</summary>
 
 - [Weird Algorithm](./introductory-problems/weird-algorithm.cpp)
 - [Missing Number](./introductory-problems/missing-number.cpp)
@@ -21,3 +32,5 @@
 - [Chessboard and Queens](./introductory-problems/chessboard-and-queens.cpp)
 - [Digit Queries](./introductory-problems/digit-queries.cpp)
 - [Grid Paths](./introductory-problems/grid-paths.cpp)
+
+</details>
